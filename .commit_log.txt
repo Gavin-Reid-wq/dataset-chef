@@ -2,3 +2,4 @@
 # Fix newline encoding issue
 # Add token-count feature
 # Pin dependency versions
+# Fix newline encoding issue
