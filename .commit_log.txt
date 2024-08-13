@@ -4,3 +4,4 @@
 # Pin dependency versions
 # Fix newline encoding issue
 # Add token-count feature
+# Add GitHub Actions
