@@ -6,3 +6,4 @@
 # Add token-count feature
 # Add GitHub Actions
 # Lint with black and isort
+# Add CSV/JSONL parser
