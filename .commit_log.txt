@@ -5,3 +5,4 @@
 # Fix newline encoding issue
 # Add token-count feature
 # Add GitHub Actions
+# Lint with black and isort
