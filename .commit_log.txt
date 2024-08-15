@@ -7,3 +7,4 @@
 # Add GitHub Actions
 # Lint with black and isort
 # Add CSV/JSONL parser
+# Update changelog
