@@ -9,3 +9,4 @@
 # Add CSV/JSONL parser
 # Update changelog
 # Lint with black and isort
+# Add CSV/JSONL parser
