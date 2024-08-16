@@ -10,3 +10,4 @@
 # Update changelog
 # Lint with black and isort
 # Add CSV/JSONL parser
+# Fix edge case in dedup
