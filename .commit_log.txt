@@ -14,3 +14,4 @@
 # Pin dependency versions
 # Initial CLI setup
 # Add CSV/JSONL parser
+# Add project badge
