@@ -15,3 +15,4 @@
 # Initial CLI setup
 # Add CSV/JSONL parser
 # Add project badge
+# CLI: support --stats output
