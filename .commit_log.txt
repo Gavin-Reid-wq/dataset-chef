@@ -16,3 +16,4 @@
 # Add CSV/JSONL parser
 # Add project badge
 # CLI: support --stats output
+# Polish README and examples
