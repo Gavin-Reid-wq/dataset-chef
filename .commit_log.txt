@@ -20,3 +20,4 @@
 # Write unit tests for token utils
 # Lint with black and isort
 # Docs: add usage screenshots
+# Add token-count feature
