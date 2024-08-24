@@ -19,3 +19,4 @@
 # Polish README and examples
 # Write unit tests for token utils
 # Lint with black and isort
+# Docs: add usage screenshots
