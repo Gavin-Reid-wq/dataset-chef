@@ -21,3 +21,4 @@
 # Lint with black and isort
 # Docs: add usage screenshots
 # Add token-count feature
+# Initial CLI setup
