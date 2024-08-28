@@ -24,3 +24,4 @@
 # Initial CLI setup
 # Polish README and examples
 # Docs: add usage screenshots
+# Add project badge
