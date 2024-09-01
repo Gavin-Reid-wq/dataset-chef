@@ -25,3 +25,4 @@
 # Polish README and examples
 # Docs: add usage screenshots
 # Add project badge
+# Refactor deduplication logic
