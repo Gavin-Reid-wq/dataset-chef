@@ -26,3 +26,4 @@
 # Docs: add usage screenshots
 # Add project badge
 # Refactor deduplication logic
+# Add test fixtures
