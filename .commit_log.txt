@@ -28,3 +28,4 @@
 # Refactor deduplication logic
 # Add test fixtures
 # Add test fixtures
+# Add project badge
