@@ -31,3 +31,4 @@
 # Add project badge
 # Fix edge case in dedup
 # Write unit tests for token utils
+# Add token-count feature
