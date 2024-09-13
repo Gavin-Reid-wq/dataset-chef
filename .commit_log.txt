@@ -33,3 +33,4 @@
 # Write unit tests for token utils
 # Add token-count feature
 # CLI: support --stats output
+# Add CSV/JSONL parser
