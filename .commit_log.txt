@@ -34,3 +34,4 @@
 # Add token-count feature
 # CLI: support --stats output
 # Add CSV/JSONL parser
+# Add test fixtures
