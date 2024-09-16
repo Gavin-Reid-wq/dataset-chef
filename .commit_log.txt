@@ -38,3 +38,4 @@
 # Add CSV/JSONL parser
 # Refactor deduplication logic
 # Initial CLI setup
+# Write unit tests for token utils
