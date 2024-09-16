@@ -37,3 +37,4 @@
 # Add test fixtures
 # Add CSV/JSONL parser
 # Refactor deduplication logic
+# Initial CLI setup
