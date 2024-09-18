@@ -40,3 +40,4 @@
 # Initial CLI setup
 # Write unit tests for token utils
 # Docs: add usage screenshots
+# Pin dependency versions
