@@ -42,3 +42,4 @@
 # Docs: add usage screenshots
 # Pin dependency versions
 # Add CSV/JSONL parser
+# Write unit tests for token utils
