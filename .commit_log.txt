@@ -43,3 +43,4 @@
 # Pin dependency versions
 # Add CSV/JSONL parser
 # Write unit tests for token utils
+# Lint with black and isort
