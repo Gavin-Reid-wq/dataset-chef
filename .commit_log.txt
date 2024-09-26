@@ -46,3 +46,4 @@
 # Lint with black and isort
 # Add CSV/JSONL parser
 # Add CSV/JSONL parser
+# Lint with black and isort
