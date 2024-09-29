@@ -47,3 +47,4 @@
 # Add CSV/JSONL parser
 # Add CSV/JSONL parser
 # Lint with black and isort
+# Polish README and examples
