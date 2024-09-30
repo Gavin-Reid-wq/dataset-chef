@@ -48,3 +48,4 @@
 # Add CSV/JSONL parser
 # Lint with black and isort
 # Polish README and examples
+# Docs: add usage screenshots
