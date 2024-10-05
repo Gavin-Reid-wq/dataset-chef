@@ -51,3 +51,4 @@
 # Docs: add usage screenshots
 # Pin dependency versions
 # Pin dependency versions
+# Initial CLI setup
