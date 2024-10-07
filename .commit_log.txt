@@ -53,3 +53,4 @@
 # Pin dependency versions
 # Initial CLI setup
 # Add CSV/JSONL parser
+# Fix edge case in dedup
