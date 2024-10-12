@@ -57,3 +57,4 @@
 # Pin dependency versions
 # Improve stream processing
 # CLI: support --stats output
+# Fix edge case in dedup
