@@ -60,3 +60,4 @@
 # Fix edge case in dedup
 # Refactor deduplication logic
 # Refactor deduplication logic
+# Fix newline encoding issue
