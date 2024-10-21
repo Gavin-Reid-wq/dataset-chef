@@ -62,3 +62,4 @@
 # Refactor deduplication logic
 # Fix newline encoding issue
 # Fix edge case in dedup
+# Add GitHub Actions
