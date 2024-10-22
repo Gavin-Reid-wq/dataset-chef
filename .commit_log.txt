@@ -63,3 +63,4 @@
 # Fix newline encoding issue
 # Fix edge case in dedup
 # Add GitHub Actions
+# Docs: add usage screenshots
