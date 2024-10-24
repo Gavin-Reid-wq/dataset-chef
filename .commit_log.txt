@@ -65,3 +65,4 @@
 # Add GitHub Actions
 # Docs: add usage screenshots
 # Docs: add usage screenshots
+# Initial CLI setup
