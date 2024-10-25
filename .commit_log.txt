@@ -66,3 +66,4 @@
 # Docs: add usage screenshots
 # Docs: add usage screenshots
 # Initial CLI setup
+# Add CLI subcommand: slice
