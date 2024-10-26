@@ -67,3 +67,4 @@
 # Docs: add usage screenshots
 # Initial CLI setup
 # Add CLI subcommand: slice
+# Pin dependency versions
