@@ -69,3 +69,4 @@
 # Add CLI subcommand: slice
 # Pin dependency versions
 # Add CSV/JSONL parser
+# Pin dependency versions
