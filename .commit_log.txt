@@ -74,3 +74,4 @@
 # Fix newline encoding issue
 # Improve stream processing
 # Add CSV/JSONL parser
+# CLI: support --stats output
