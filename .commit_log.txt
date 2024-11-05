@@ -76,3 +76,4 @@
 # Add CSV/JSONL parser
 # CLI: support --stats output
 # Refactor deduplication logic
+# Add GitHub Actions
