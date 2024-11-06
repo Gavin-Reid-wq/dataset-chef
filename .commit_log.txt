@@ -77,3 +77,4 @@
 # CLI: support --stats output
 # Refactor deduplication logic
 # Add GitHub Actions
+# Pin dependency versions
