@@ -80,3 +80,4 @@
 # Pin dependency versions
 # Refactor deduplication logic
 # Release v0.1.0
+# Update changelog
