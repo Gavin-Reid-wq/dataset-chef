@@ -82,3 +82,4 @@
 # Release v0.1.0
 # Update changelog
 # Pin dependency versions
+# Fix edge case in dedup
