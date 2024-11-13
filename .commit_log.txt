@@ -83,3 +83,4 @@
 # Update changelog
 # Pin dependency versions
 # Fix edge case in dedup
+# Pin dependency versions
