@@ -85,3 +85,4 @@
 # Fix edge case in dedup
 # Pin dependency versions
 # Docs: add usage screenshots
+# Add CSV/JSONL parser
