@@ -86,3 +86,4 @@
 # Pin dependency versions
 # Docs: add usage screenshots
 # Add CSV/JSONL parser
+# Lint with black and isort
