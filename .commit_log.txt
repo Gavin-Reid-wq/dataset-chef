@@ -90,3 +90,4 @@
 # Refactor deduplication logic
 # Lint with black and isort
 # Add project badge
+# Fix newline encoding issue
