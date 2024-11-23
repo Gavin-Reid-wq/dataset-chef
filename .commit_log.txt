@@ -93,3 +93,4 @@
 # Fix newline encoding issue
 # Refactor deduplication logic
 # CLI: support --stats output
+# Improve stream processing
