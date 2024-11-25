@@ -95,3 +95,4 @@
 # CLI: support --stats output
 # Improve stream processing
 # Add test fixtures
+# Lint with black and isort
