@@ -98,3 +98,4 @@
 # Lint with black and isort
 # Write unit tests for token utils
 # CLI: support --stats output
+# Docs: add usage screenshots
